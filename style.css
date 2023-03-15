@@ -1,0 +1,142 @@
+
+.form-control{
+    border-radius:0px
+    
+}
+
+nav{
+    margin-top: 40px;
+    width: 1278px;
+position: absolute !important;
+
+}
+.back{
+    background-image: url('img/back.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    /* height: 100%; */
+    height: 120vh;
+    background-size: cover;
+}
+.b{
+    margin-bottom: -10%;
+}
+.and{
+    margin-top: -49%;
+    font-size: 3em;
+}
+.top{
+    margin-left: 70%;
+  
+}
+.yellow:hover{
+    color: #f1ae0e !important; 
+}
+.glass{
+    margin-left: -17%;
+    margin-top: 2%;
+    font-size: larger;
+    color: white;
+}
+.head{
+    color: #f1ae0e !important;
+    margin-top: 55%;
+}
+.dark{
+   background-color: #24272B;
+   opacity: 0.7;
+   height: 225px;
+   width: 340px;
+}
+.build{
+    display: flex;
+    font-size: 4em;
+    margin-left: 75%;
+    margin-top: -20%  !important; 
+}
+.but-1{
+    border-color: #f1ae0e;
+}
+.name{
+    position: absolute;
+    margin-top: 25% !important;
+margin-left: 7%;
+}
+.name_1{
+    position: absolute;
+    margin-top: 28% !important;
+    margin-left: 1%;
+}
+.name_1 p{
+    font-size: 19px;
+    /* margin-left: 5%; */
+}
+.heading{
+    margin-left: 14%;
+    font-size: 2.4em;
+}
+.dot{
+    width: 60px;
+    height: 12px;
+    margin-left: 50%;
+    background-color: #f1ae0e;
+}
+.para-1 {
+    margin-left: 20%;
+    font-size: 1em;
+    line-height: 32px;
+}
+.para-2{
+    margin-left: 7%;
+    font-size: 1em;
+    line-height: 32px;
+}
+.para-back{
+    width: 800px;
+    margin-left: 12%;
+    background-color: #f5e9e9;
+}
+.para-back button{
+    margin-left: 37%;
+}
+.image{
+    margin-left: 37% !important;
+}
+.card-4{
+    background-color: #f1ae0e;
+    color: white;
+    width: 340px;
+    height: 295px;
+}
+.card-4_2{
+    background-color: #ffffff;
+    color: black;
+    width: 360px;
+    height: 295px;
+}
+.grey{
+    background-color: #F2F2F2;
+}
+.card-6{
+    background-color: #F9DE9B;
+    
+    height: 180px;
+    width: 280px;
+}
+.car-but{
+    background-color: #F9DE9B;
+    margin-left: 24%;
+}
+.card-6-1{
+    background-color: #f1ae0e;
+    color: white;
+    height: 180px;
+    width: 280px;
+}
+.car-but-1{
+    margin-top: -3%;
+    background-color: #f1ae0e;
+    margin-left: 24%;
+}
+
